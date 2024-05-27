@@ -1,4 +1,4 @@
-# FGSM-against-ResNet-50-on-CIFAR-10
+# FGSM against ResNet-50 on CIFAR-10
 Fast Gradient Sign Method against ResNet-50 on CIFAR-10 - Adversarial Machine Learning
 
 Read about this project on my blog: [Part 2: Fast Gradient sign Method (FGSM)](https://sidthoviti.com/part-2-fast-gradient-sign-method-fgsm/)
